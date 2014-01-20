@@ -10,6 +10,10 @@
   * [Design/Layout/Etc](design-dev/design-layout.md)
   * [iOS](design-dev/ios.md)
 
+[Hobbies/Interests]()
+
+* [Hobbies/Interests](hobbies-interests/hobbies-interests.md)
+
 [Gaming]()
 
   * [Boardgames](gaming/boardgames.md)
