@@ -3,6 +3,7 @@
 [Biohacking/Learning/Etc]()
 
   * [Learning Language](biohacking/learning-language.md)
+  * [Learning Music](biohacking/learning-music.md)
   * [Tim Ferriss](biohacking/tim-ferriss.md)
 
 [Design/Dev]()
