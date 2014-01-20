@@ -24,6 +24,7 @@
 
 [Shopping]()
 
+* [Food Shopping](shopping/food-shopping.md)
 * [Gothic Shopping](shopping/gothic-shopping.md)
 
 [Go Deeper..](my-other-mind-dumps.md)
