@@ -2,7 +2,7 @@
 
 [Biohacking/Learning/Etc]()
 
-  * [Language](biohacking/language.md)
+  * [Learning Language](biohacking/learning-language.md)
   * [Tim Ferriss](biohacking/tim-ferriss.md)
 
 [Design/Dev]()
