@@ -14,6 +14,7 @@
 [Hobbies/Interests]()
 
 * [Hobbies/Interests](hobbies-interests/hobbies-interests.md)
+* [Travelling](hobbies-interests/travelling.md)
 
 [Gaming]()
 
