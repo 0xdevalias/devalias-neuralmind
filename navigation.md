@@ -27,7 +27,10 @@
 * [Food Shopping](shopping/food-shopping.md)
 * [Gothic Shopping](shopping/gothic-shopping.md)
 
-[Go Deeper..](my-other-mind-dumps.md)
+[Go Deeper..]()
+
+* [Go Deeper Into My Mind](my-other-mind-dumps.md)
+* [Me Across The Net](me-across-the-net.md)
 
 <!-- set a default theme -->
 [gimmick:theme (inverse: false)](cosmo)
