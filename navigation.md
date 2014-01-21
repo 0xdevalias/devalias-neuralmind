@@ -4,6 +4,7 @@
 
   * [Learning Language](biohacking-learning/learning-language.md)
   * [Learning Music](biohacking-learning/learning-music.md)
+  * [Learning Online Coursewear](biohacking-learning/learning-online-courseware.md)
   * [Tim Ferriss](biohacking-learning/tim-ferriss.md)
 
 [Design/Dev]()
