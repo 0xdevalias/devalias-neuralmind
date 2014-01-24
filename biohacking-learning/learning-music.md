@@ -25,7 +25,10 @@
 * http://www.drumtabs.org/
   * http://www.drumbum.com/drumtabs
 * http://www.virtualdrumming.com/drums/drum-sheet-music.html
+* http://lindseystirling.mybigcommerce.com/drums-sheet-music/
 
 ## Guitar
 
 * See [Rocksmith](../gaming/rocksmith.md)
+* http://lindseystirling.mybigcommerce.com/guitar-sheet-music/
+
