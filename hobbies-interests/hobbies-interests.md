@@ -10,6 +10,10 @@
     * http://www.paintballs.com.au/shop/masks/dye-i4-mask/
     * http://www.paintballshop.com/dye-i4-goggle-lime-tiger/
 
+## Poledancing
+* [iSpin](http://www.ispin.com.au/)
+* [The Pussycat Pole](http://www.thepussycatpole.com.au/)
+
 ## Raves/Events
 
 * [Neko Nation](http://www.nekonation.com/)
