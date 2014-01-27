@@ -18,6 +18,7 @@
 * [Reading](hobbies-interests/reading.md)
 * [Shamanism/Shamanics](hobbies-interests/shamanism-shamanics.md)
 * [Travelling](hobbies-interests/travelling.md)
+* [Webhosting](hobbies-interests/webhosting.md)
 
 [Gaming]()
 
