@@ -31,4 +31,5 @@
 
 * See [Rocksmith](../gaming/rocksmith.md)
 * http://lindseystirling.mybigcommerce.com/guitar-sheet-music/
+* [Restring: With Gary Brawer - Les Paul Style Guitar](http://www.youtube.com/watch?v=_sAQcAlAeKU)
 
