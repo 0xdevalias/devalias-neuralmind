@@ -10,6 +10,8 @@
 * [Coursera](https://www.coursera.org/)
 * [edX](https://www.edx.org/)
   * [Course List](https://www.edx.org/course-list)
+* [Udemy](https://www.udemy.com/)
+  * [Course List](https://www.udemy.com/courses/)
 
 ## MIT Open Courseware
 * [MIT Open Courseware](http://ocw.mit.edu/index.htm)
