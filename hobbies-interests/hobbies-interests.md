@@ -66,6 +66,7 @@
 ## Trampolining
 
 * [Flip Out](http://www.flipout.net.au/)
+  * [Canberra (Facebook)](https://www.facebook.com/flipout.canberra)
 
 ## Yoga
 
