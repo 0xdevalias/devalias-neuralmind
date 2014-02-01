@@ -10,7 +10,13 @@
     * http://www.paintballs.com.au/shop/masks/dye-i4-mask/
     * http://www.paintballshop.com/dye-i4-goggle-lime-tiger/
 
+## Parkour
+
+* [Canberra Parkour Classes](http://parkour.asn.au/canberra-parkour-classes.php)
+  * [Canberra Parkour Training &amp; Classes (Facebook)](https://www.facebook.com/groups/65484124558/?fref=ts)
+
 ## Poledancing
+
 * [iSpin](http://www.ispin.com.au/)
 * [The Pussycat Pole](http://www.thepussycatpole.com.au/)
 
