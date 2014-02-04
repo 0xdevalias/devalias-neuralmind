@@ -1,5 +1,9 @@
 # Design, Layout, Colours, Etc
 
+## Buy/Pay for Designs
+
+* [99designs](http://99designs.com.au/)
+
 ## Layouts, Ideas, Etc
 
 * http://pttrns.com/
