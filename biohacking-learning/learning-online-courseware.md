@@ -12,8 +12,12 @@
   * [Course List](https://www.edx.org/course-list)
 * [Udemy](https://www.udemy.com/)
   * [Course List](https://www.udemy.com/courses/)
+* [Codecademy](http://www.codecademy.com/) - Basic coding
+* [Khan Academy](https://www.khanacademy.org/) - Maths and science
+* [Saylor](http://www.saylor.org/)
 
 ## MIT Open Courseware
+
 * [MIT Open Courseware](http://ocw.mit.edu/index.htm)
 * [Course List](http://ocw.mit.edu/courses/index.htm)
   * [Brain and Cognitive Sciences](http://ocw.mit.edu/courses/index.htm#brain-and-cognitive-sciences)
