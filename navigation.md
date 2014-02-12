@@ -28,6 +28,10 @@
 
 [Startup/Entrepreneur/Etc](startup-entrepreneur-coworking.md)
 
+[Tech]()
+
+* [Cool Tech](tech/cool-tech.md)
+
 [Shopping]()
 
 * [Food Shopping](shopping/food-shopping.md)
