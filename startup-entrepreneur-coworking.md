@@ -1,13 +1,19 @@
 # Startup, Entrepreneur, Coworking etc
 
+* http://fi.co/
+
 ## Australia-wide
 
+* http://blog.thefetch.com/startup-incubators-and-accelerators-in-australia/
 * http://www.startupsmart.com.au/
 * http://siliconbeachaustralia.org/
 * http://www.startup-australia.org/ &ndash; An open wiki listing many resources useful for IT/web/technology entrepreneurs in Australia.
 * http://startupaus.org/ &ndash; A not for profit organisation with a mission to foster and build the community of technology entrepreneurship in Australia.
 * http://www.shoestring.com.au/
 * http://www.start-up.com.au/ &ndash; "Start-up Australia is a private equity investor with an enviable track record of delivering attractive financial returns to our investors."
+* http://ignitionlabs.com.au/
+* http://www.startmate.com.au/
+* http://startupweekend.org/about/
 
 ## Canberra
 
