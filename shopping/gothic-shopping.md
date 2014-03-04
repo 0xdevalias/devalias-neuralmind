@@ -2,6 +2,9 @@
 
 * [Apocalypse Hardware](http://apocalypsehardware.com/)
 * [Cyberdog](http://shop.cyberdog.net/)
+  * http://shop.cyberdog.net/mens-guardian-angel-ii-t-shirt/p308
+  * http://shop.cyberdog.net/bio-giga-longsleeve-top/p2551
+  * http://shop.cyberdog.net/mens-giga-long-sleeve-top/p1809
 * [Vampirefreaks](http://store.vampirefreaks.com/?r=alias1)
   * Shirts
     * http://store.vampirefreaks.com/product.php?pid=4252&r=alias1
