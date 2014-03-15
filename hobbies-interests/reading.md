@@ -2,8 +2,47 @@
 
 * [Kindle Paper White](http://www.amazon.com.au/gp/feature.html?docId=3077740006)
 
+## Stores
+
+* [AbeBooks](https://www.abebooks.com)
+* Fishpond, Amazon, etc
+
+## Services
+
+* Tracking/Etc
+  * Lists/Comparisons
+    * [Comparing Goodreads, Shelfari and LibraryThing](http://ilmk.wordpress.com/2013/04/16/comparing-goodreads-shelfari-and-librarything/)
+    * [Alternatives to Goodreads](http://bookriot.com/2013/04/03/alternatives-to-goodreads/)
+  * **[Goodreads](http://www.goodreads.com/)**
+    * Facebook signup
+    * [Import/Export](https://www.goodreads.com/review/import)
+    * [API](https://www.goodreads.com/api)
+    * Site UI feels a little clunky and dated.
+    * [Add your books to Facebook Timeline](https://www.goodreads.com/facebook/add_books)
+      * Also make sure to go to the Facebook 'Books' section and enable 'Include applications' from the right hand menu
+  * [Shelfari](http://www.shelfari.com/)
+  * [LibraryThing](http://www.librarything.com/)
+    * Facebook/Twitter signup
+    * Site UI feels somewhat clunky and dated.
+    * [API](https://www.librarything.com/services/)
+  * [Riffle](http://www.rifflebooks.com/)
+    * Facebook signup
+    * Forces you to 'follow' 5 other readers during signup (can't skip but can unfollow later)
+    * UI/UX feels a bit buggy/lacking
+  * [BookLikes](http://booklikes.com/)
+    * Facebook signup
+    * Friends from Facebook/Twitter
+    * Bookmarklet (Supports Amazon, Book Depository, Goodreads)
+    * 'Bookshelves'
+    * [API](http://booklikes.com/dev/docs)
+  * [ThirdScribe](http://thirdscribe.com/)
+    * No facebook signup
+* Recommendations
+  * [BookLamp](http://booklamp.org/)
+
 ## Want to Read
 
+* [My GoodReads Profile](https://www.goodreads.com/user/show/29664620-glenn-grant)
 * [The Millenium Series](http://en.wikipedia.org/wiki/Millennium_series) ([Fishpond]())
   * The Girl with the Dragon Tattoo
   * The Girl Who Played with Fire
