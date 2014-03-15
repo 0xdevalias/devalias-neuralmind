@@ -42,9 +42,28 @@
 ## Quantified/Tracking Devices/Smart Home
 
 * Fitness Trackers
+  * Lists/Reviews/Etc
+    * [Fitness Trackers List (Pearltrees)](http://www.pearltrees.com/alias1/trackers-data-gatherers-etc/id5951357)
+  * [Amiigo](https://amiigo.com/)
+    * http://www.gizmag.com/amiigo-fitness-bracelet/25805/
   * Atlas
     * http://www.indiegogo.com/projects/atlas-the-first-fitness-tracker-that-actually-tracks-your-workout
     * http://atlaswearables.com/
+  * [Basis](http://www.mybasis.com/)
+    * http://www.pcmag.com/article2/0,2817,2416738,00.asp
+  * [FitBit](https://www.fitbit.com/au)
+    * Force
+      * http://www.pcmag.com/article2/0,2817,2427368,00.asp
+    * Flex
+      * http://www.pcmag.com/article2/0,2817,2418525,00.asp
+    * One
+    * Zip
+  * [Jawbone UP](https://jawbone.com/up#up24)
+  * [Nike+](https://secure-nikeplus.nike.com/plus/)
+    * http://www.pcmag.com/article2/0,2817,2426946,00.asp
+  * Withings
+    * [Pulse](http://www.withings.com/pulse)
+      * http://www.pcmag.com/article2/0,2817,2421266,00.asp
 * Home
   * [Ninja Blocks](http://ninjablocks.com/pages/home)
 * Vehicle
