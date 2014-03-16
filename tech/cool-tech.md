@@ -30,6 +30,8 @@
   * [Myo Armband](https://www.thalmic.com/en/myo/)
   * Fin Wearable Ring
     * http://www.indiegogo.com/projects/fin-wearable-ring-make-your-palm-as-numeric-keypad-and-gesture-interface
+  * Ring
+    * https://www.kickstarter.com/projects/1761670738/ring-shortcut-everything
 
 ## Lucid Dreaming
 
@@ -41,14 +43,19 @@
 
 ## Quantified/Tracking Devices/Smart Home
 
+* Alertness
+  * [Vigo](http://wearvigo.com/)
+* Clothing
+  * [OM Signal](http://www.omsignal.com/)
 * Fitness Trackers
   * Lists/Reviews/Etc
     * [Fitness Trackers List (Pearltrees)](http://www.pearltrees.com/alias1/trackers-data-gatherers-etc/id5951357)
+  * [Airo](http://www.getairo.com/)
+  * [Angel](http://www.angelsensor.com/)
   * [Amiigo](https://amiigo.com/)
     * http://www.gizmag.com/amiigo-fitness-bracelet/25805/
-  * Atlas
+  * [Atlas](http://atlaswearables.com/)
     * http://www.indiegogo.com/projects/atlas-the-first-fitness-tracker-that-actually-tracks-your-workout
-    * http://atlaswearables.com/
   * [Basis](http://www.mybasis.com/)
     * http://www.pcmag.com/article2/0,2817,2416738,00.asp
   * [FitBit](https://www.fitbit.com/au)
@@ -64,17 +71,48 @@
   * Withings
     * [Pulse](http://www.withings.com/pulse)
       * http://www.pcmag.com/article2/0,2817,2421266,00.asp
+* Food/Shopping/Etc
+  * [Hiku](http://hiku.us/)
+  * [TellSpec](http://tellspec.com/)
+* Health
+  * [Scanadu](http://www.scanadu.com/)
 * Home
   * [Ninja Blocks](http://ninjablocks.com/pages/home)
+  * [Lockitron](https://lockitron.com/)
+  * Air Quality/Temperature/etc
+    * [Alima](http://www.airboxlab.com/)
+    * [Cube Sensors](http://cubesensors.com/)
+    * [Netatmo](http://www.netatmo.com/)
+    * Smoke Detectors
+      * [Birdi](http://getbirdi.com/)
+      * [Nest Protect](https://store.nest.com/product/smoke-co-alarm/)
+  * Water
+    * [Driblet](http://driblet.co/)
+    * [Sprav](http://www.sprav.com/)
+* Sleep
+  * [Beddit](http://www.beddit.com/)
 * Vehicle
   * [Freematics](http://arduinodev.com/freematics/)
     * https://www.kickstarter.com/projects/stanleyhuang/freematics-vehicle-telematics-with-open-source-har?ref=category
   * [Fuse](http://joinfuse.com/)
     * https://www.kickstarter.com/projects/windley/fuse-connecting-your-world?ref=category
+  * [Mojio](http://www.moj.io/)
+  * [Zubie](http://zubie.co/)
+
+## Sound/Audio
+
+* [Kapture](https://kaptureaudio.com/)
 
 ## Screen/Glasses/Etc
 
 * [CastAR](http://technicalillusions.com/castar/)
   * https://www.kickstarter.com/projects/technicalillusions/castar-the-most-versatile-ar-and-vr-system
+* [Chromecast](http://www.google.com.au/intl/en/chrome/devices/chromecast/)
 * [Google Glass](http://www.google.com/glass/start/)
+* [Oakley Airwave 1.5](http://www.oakley.com/products/7283/28220)
 * [Oculus Rift](http://www.oculusvr.com/)
+
+## tDCS
+
+* [Foc.us](http://www.foc.us/)
+* Also see [tDCS@/dev/alias | Health Hacks](http://isitbulletproof.info/#!tech/tdcs.md)
