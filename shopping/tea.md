@@ -1,0 +1,15 @@
+# Tea
+
+* [TeaLeaves.com](http://www.tealeaves.com/)
+  * [Green Tea](http://www.tealeaves.com/loose/green)
+    * [Genmaicha](http://www.tealeaves.com/loose/green/genmai-cha)
+    * [Tencha Matcha](http://www.tealeaves.com/tencha-matcha-high-energy)
+* [T2 Tea](http://www.t2tea.com/)
+  * [Green Tea](http://www.t2tea.com/shop/tea-2/green/)
+    * [Genmaicha Bancha](http://www.t2tea.com/shop/tea-2/green/gen-mai-cha-bancha/)
+    * [Matcha](http://www.t2tea.com/shop/tea-2/green/matcha-2/)
+    * [Gunpowder Green](http://www.t2tea.com/shop/tea-2/green/gunpowder-green/)
+* [Adore Tea](http://adoretea.com.au/)
+  * [Green Tea](http://adoretea.com.au/Green-Tea/View-All-Green-Tea-c32/)
+    * [Japan Genmaicha](http://adoretea.com.au/Green-Tea/Japan/Japan-Genmaicha-p63.html)
+    * [Japan Matcha](http://adoretea.com.au/Green-Tea/Japan/Japan-Matcha-p64.html)

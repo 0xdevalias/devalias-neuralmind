@@ -37,6 +37,7 @@
 
 * [Food Shopping](shopping/food-shopping.md)
 * [Gothic Shopping](shopping/gothic-shopping.md)
+* [Tea](shopping/tea.md)
 
 [Go Deeper..]()
 
