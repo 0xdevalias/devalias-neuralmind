@@ -3,6 +3,7 @@
 ## Buy/Pay for Designs
 
 * [99designs](http://99designs.com.au/)
+* [Fiverr - Graphic Design](http://www.fiverr.com/categories/graphics-design/) &ndash; What people will do for $5
 
 ## Layouts, Ideas, Etc
 
