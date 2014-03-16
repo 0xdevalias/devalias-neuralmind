@@ -23,7 +23,7 @@
 
 [Gaming]()
 
-  * [Boardgames](gaming/boardgames.md)
+  * [Boardgames/Cardgames](gaming/boardgames-cardgames.md)
   * [Roleplaying/DnD](gaming/roleplaying-dnd.md)
   * [Rocksmith](gaming/rocksmith.md)
 
