@@ -17,3 +17,7 @@
     * http://store.vampirefreaks.com/product.php?pid=3090&r=alias1
   * Misc
     * http://store.vampirefreaks.com/product.php?pid=6398&r=alias1
+
+## Fangs
+
+* http://teethbydnash.com/custom-fangs/custom-fang-styles/
