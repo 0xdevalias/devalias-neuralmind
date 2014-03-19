@@ -66,6 +66,7 @@
     * One
     * Zip
   * [Jawbone UP](https://jawbone.com/up#up24)
+  * [Moov](http://preorder.moov.cc/)
   * [Nike+](https://secure-nikeplus.nike.com/plus/)
     * http://www.pcmag.com/article2/0,2817,2426946,00.asp
   * Withings
@@ -111,6 +112,10 @@
 * [Google Glass](http://www.google.com/glass/start/)
 * [Oakley Airwave 1.5](http://www.oakley.com/products/7283/28220)
 * [Oculus Rift](http://www.oculusvr.com/)
+
+## Video/Photo/Images
+
+* http://getnarrative.com/ &ndash; The Narrative Clip is a tiny, automatic camera and app that gives you a searchable and shareable photographic memory.
 
 ## tDCS
 
