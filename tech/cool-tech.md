@@ -65,6 +65,8 @@
       * http://www.pcmag.com/article2/0,2817,2418525,00.asp
     * One
     * Zip
+  * [Healbe GoBe](http://healbe.com/)
+    * [Healbe GoBe (Indiegogo)](http://www.indiegogo.com/projects/healbe-gobe-the-only-way-to-automatically-measure-calorie-intake)
   * [Jawbone UP](https://jawbone.com/up#up24)
   * [Moov](http://preorder.moov.cc/)
   * [Nike+](https://secure-nikeplus.nike.com/plus/)

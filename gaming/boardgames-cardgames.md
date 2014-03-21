@@ -6,11 +6,11 @@
   * [Octgn](http://octgn.net/) ok-tuh-gon is a virtual table top with an integrated player lobby and chat system that supports custom card and board games.
 
 
-## Games we Have
+## Games we Have ([The Overlook Board Based Game Appreciation Society﻿](https://www.facebook.com/groups/393153110828155/))
 
 * Arkham Horror
   * + All(?) Expansions
-* [Boss Monster](http://brotherwisegames.com/) (On preorder)
+* [Boss Monster](http://brotherwisegames.com/)
   * TOGET Tools of Hero-Kind
 * Dominion
 * Eclipse
