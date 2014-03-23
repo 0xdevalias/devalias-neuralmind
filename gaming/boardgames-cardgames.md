@@ -2,8 +2,6 @@
 
 * http://www.orderofgamers.com/games
   * Games Rules summaries, reference sheets, foamcore plans, images, and more.
-* Digital Systems
-  * [Octgn](http://octgn.net/) ok-tuh-gon is a virtual table top with an integrated player lobby and chat system that supports custom card and board games.
 
 ## BoardGameGeek
 
@@ -25,6 +23,7 @@
 
 ## BoardGames - Digital
 
+* [Octgn](http://octgn.net/) ok-tuh-gon is a virtual table top with an integrated player lobby and chat system that supports custom card and board games.
 * http://www.boardgamesdigital.com/
 * http://ipadboardgames.org/
 
