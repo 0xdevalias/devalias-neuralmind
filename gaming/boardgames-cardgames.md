@@ -27,23 +27,27 @@
 * http://www.boardgamesdigital.com/
 * http://ipadboardgames.org/
 
-## Games we Have ([The Overlook Board Based Game Appreciation Society﻿](https://www.facebook.com/groups/393153110828155/), [BGG - devalias - Collection](http://boardgamegeek.com/collection/user/devalias))
+## Games we Have
 
-* Arkham Horror
-  * + All(?) Expansions
-* [Boss Monster](http://brotherwisegames.com/)
-  * TOGET Tools of Hero-Kind
-* Dominion
-* Eclipse
-  * + Rise of the Ancients Expansion
-* Galaxy Trucker (Not yet?)
-* Munchkin
-  * Munchkin Bites
-* Netrunner
-  * [On Octgn](http://octgn.gamersjudgement.com/wordpress/anr/)
-* Pandemic
-* Zombicide
-* More..?
+* Collections
+  * [The Overlook Board Based Game Appreciation Society﻿](https://www.facebook.com/groups/393153110828155/)
+  * [BGG - devalias - Collection](http://boardgamegeek.com/collection/user/devalias)
+* Games
+  * Arkham Horror
+    * + All(?) Expansions
+  * [Boss Monster](http://brotherwisegames.com/)
+    * TOGET Tools of Hero-Kind
+  * Dominion
+  * Eclipse
+    * + Rise of the Ancients Expansion
+  * Galaxy Trucker (Not yet?)
+  * Munchkin
+    * Munchkin Bites
+  * Netrunner
+    * [On Octgn](http://octgn.gamersjudgement.com/wordpress/anr/)
+  * Pandemic
+  * Zombicide
+  * More..?
 
 ## Games we Need
 
