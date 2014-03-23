@@ -5,6 +5,15 @@
 * Digital Systems
   * [Octgn](http://octgn.net/) ok-tuh-gon is a virtual table top with an integrated player lobby and chat system that supports custom card and board games.
 
+## Boardgamegeek
+
+* [Board Game Geek](http://boardgamegeek.com/)
+  * [BGG - User - devalias](http://boardgamegeek.com/user/devalias)
+    * [devalias - Collection](http://boardgamegeek.com/collection/user/devalias)
+    * [devalias - Wishlist](http://boardgamegeek.com/wishlist/devalias)
+    * [devalias - Plays](http://boardgamegeek.com/plays/bymonth/user/devalias/subtype/boardgame) ([How to Log Plays](http://boardgamegeek.com/wiki/page/plays))
+    * [devalias - Lists](http://boardgamegeek.com/geeklist/lists/user/devalias)
+
 
 ## Games we Have ([The Overlook Board Based Game Appreciation Society﻿](https://www.facebook.com/groups/393153110828155/))
 
