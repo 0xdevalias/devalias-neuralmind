@@ -1,10 +1,14 @@
 # Video Games
 
-## Origin
+## GreenManGaming (Store)
+
+* http://www.greenmangaming.com/
+
+## Origin (Store)
 
 * [Origin](https://www.origin.com/)
 
-## Steam
+## Steam (Store/Community)
 
 * [Steam - Store](http://store.steampowered.com/)
 * [Steam - Community](http://steamcommunity.com/)
