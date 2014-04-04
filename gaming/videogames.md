@@ -4,6 +4,10 @@
 
 * http://www.greenmangaming.com/
 
+## G2A (Store)
+
+* https://www.g2a.com/
+
 ## Origin (Store)
 
 * [Origin](https://www.origin.com/)
