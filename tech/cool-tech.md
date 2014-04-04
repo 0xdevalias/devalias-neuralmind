@@ -1,5 +1,7 @@
 # Cool Tech
 
+* [Wearable Tech Insights (Database) | Vandrico](http://vandrico.com/database)
+
 ## 3d Printing
 
 * TODO
