@@ -23,12 +23,15 @@
 
 [Gaming]()
 
-  * [Boardgames/Cardgames](gaming/boardgames-cardgames.md)
-  * [Roleplaying/DnD](gaming/roleplaying-dnd.md)
-  * [Rocksmith](gaming/rocksmith.md)
-  * [Video Games](gaming/videogames.md)
+* [Boardgames/Cardgames](gaming/boardgames-cardgames.md)
+* [Roleplaying/DnD](gaming/roleplaying-dnd.md)
+* [Rocksmith](gaming/rocksmith.md)
+* [Video Games](gaming/videogames.md)
 
-[Startup/Entrepreneur/Etc](startup-entrepreneur-coworking.md)
+[Work/Startup/Outsource/Etc]()
+
+* [Startup/Entrepreneur/Etc](startup-entrepreneur-coworking.md)
+* [Outsourcing/Microjobs](work-etc/outsourcing-microjobs.md)
 
 [Tech]()
 
