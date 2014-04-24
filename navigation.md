@@ -28,9 +28,9 @@
 * [Rocksmith](gaming/rocksmith.md)
 * [Video Games](gaming/videogames.md)
 
-[Work/Startup/Outsource/Etc]()
+[Work/Startup/Outsource]()
 
-* [Startup/Entrepreneur/Etc](startup-entrepreneur-coworking.md)
+* [Startup/Entrepreneur/Etc](work-etc/startup-entrepreneur-coworking.md)
 * [Outsourcing/Microjobs](work-etc/outsourcing-microjobs.md)
 
 [Tech]()
