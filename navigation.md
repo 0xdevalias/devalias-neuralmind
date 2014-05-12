@@ -31,7 +31,7 @@
 [Work/Startup/Outsource]()
 
 * [Startup/Entrepreneur/Etc](work-etc/startup-entrepreneur-coworking.md)
-* [Outsourcing/Microjobs](work-etc/outsourcing-microjobs.md)
+* [Outsourcing/VA's/Microjobs](work-etc/outsourcing-vas-microjobs.md)
 
 [Tech]()
 
