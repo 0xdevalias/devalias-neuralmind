@@ -1,5 +1,10 @@
 # Food Shopping
 
+## Edible Bugs
+
+* [Exo (Cricket Flour)](http://www.exo.co/)
+* [Edible Bug Shop](http://www.ediblebugshop.com.au/)
+
 ## Meat
 
 * [Jordo's Chop Shop](http://www.jordoschopshop.com/)
