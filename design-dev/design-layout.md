@@ -1,6 +1,6 @@
 # Design, Layout, Colours, Etc
 
-## Buy/Pay for Designs/Stock/Etc
+## Purchase Designs/Stock/Etc
 
 * [99designs](http://99designs.com.au/)
 * [Fiverr - Graphic Design](http://www.fiverr.com/categories/graphics-design/) &ndash; What people will do for $5
