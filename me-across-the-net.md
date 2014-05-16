@@ -11,9 +11,11 @@
 
 * http://www.github.com/alias1
   * http://osrc.dfm.io/alias1
-* https://coderwall.com/alias1
 * https://coderbits.com/devalias
+* https://coderwall.com/alias1
+* http://www.codecademy.com/devalias
 * http://www.hackathon.io/users/20492
+* Also see 'Micropayments'
 
 ## Game'ish
 
@@ -42,6 +44,11 @@
 ## Quantified'ish
 
 * http://trakt.tv/user/alias1
+
+## Micropayment'ish
+
+* https://flattr.com/profile/devalias
+* https://www.gittip.com/devalias/
 
 ## Misc, Other and Unused
 
