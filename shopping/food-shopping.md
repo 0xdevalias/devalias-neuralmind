@@ -1,10 +1,19 @@
 # Food Shopping
 
+## Bulletproof
+
+* [Upgraded Self](http://www.gopjn.com/t/TEFNSUdGQUVFRkZLRkFFRERLR0Y)
+* [Optimoz](http://www.optimoz.com.au/)
+
 ## Edible Bugs
 
 * [Exo (Cricket Flour)](http://www.exo.co/)
 * [Edible Bug Shop](http://www.ediblebugshop.com.au/)
 
+## Honey
+
+* [Clayridge](http://www.clayridge.com.au/honeyrange.html)
+ 
 ## Meat
 
 * [Jordo's Chop Shop](http://www.jordoschopshop.com/)
