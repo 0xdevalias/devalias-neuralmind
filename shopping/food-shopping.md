@@ -5,7 +5,7 @@
 * [Upgraded Self](http://www.gopjn.com/t/TEFNSUdGQUVFRkZLRkFFRERLR0Y)
 * [Optimoz](http://www.optimoz.com.au/)
 
-## Edible Bugs
+## Bugs (Edible)
 
 * [Exo (Cricket Flour)](http://www.exo.co/)
 * [Edible Bug Shop](http://www.ediblebugshop.com.au/)
