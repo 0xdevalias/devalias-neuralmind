@@ -13,6 +13,7 @@
   * http://osrc.dfm.io/alias1
 * https://coderbits.com/devalias
 * https://coderwall.com/alias1
+* https://www.codersclan.net/profile/devalias
 * http://www.codecademy.com/devalias
 * http://www.hackathon.io/users/20492
 * Also see 'Micropayments'
