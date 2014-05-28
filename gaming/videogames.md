@@ -1,5 +1,9 @@
 # Video Games
 
+## Meta Stores
+
+* http://cdkeyprices.com/
+
 ## GreenManGaming (Store)
 
 * http://www.greenmangaming.com/
