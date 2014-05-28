@@ -26,3 +26,5 @@
 
 * http://www.colourlovers.com/
 * http://design-seeds.com/
+* http://paletton.com/ (http://colorschemedesigner.com/)
+* http://colrd.com/
