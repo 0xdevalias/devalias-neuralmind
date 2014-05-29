@@ -50,6 +50,7 @@
 
 * https://flattr.com/profile/devalias
 * https://www.gittip.com/devalias/
+* https://www.bountysource.com/people/26043-devalias
 
 ## Misc, Other and Unused
 
