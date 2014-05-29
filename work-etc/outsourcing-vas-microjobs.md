@@ -10,6 +10,10 @@
 
 * http://www.taskrabbit.com/
 
+## Git/Open Source/Etc
+
+* https://www.bountysource.com/
+
 ## Virtual Assistants
 
 * https://www.fancyhands.com/
