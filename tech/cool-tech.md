@@ -18,6 +18,10 @@
 * [OpenPCR](http://openpcr.org/)
   * https://www.kickstarter.com/projects/930368578/openpcr-open-source-biotech-on-your-desktop?ref=category
 
+## Finance
+
+* [Coin](https://onlycoin.com/)
+
 ## Input Devices
 
 * Brain
