@@ -5,6 +5,8 @@
 ## 3d Printing
 
 * TODO
+* Circuits
+  * [Cartesian Co - Argentum](http://www.cartesianco.com/)
 
 ## AI
 
