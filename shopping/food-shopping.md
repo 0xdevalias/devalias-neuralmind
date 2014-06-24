@@ -10,6 +10,10 @@
 * [Exo (Cricket Flour)](http://www.exo.co/)
 * [Edible Bug Shop](http://www.ediblebugshop.com.au/)
 
+## Gluten Free
+
+* http://www.glutenfreeshop.com.au/
+
 ## Honey
 
 * [Clayridge](http://www.clayridge.com.au/honeyrange.html)
