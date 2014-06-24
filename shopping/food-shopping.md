@@ -13,6 +13,7 @@
 ## Gluten Free
 
 * http://www.glutenfreeshop.com.au/
+* http://wheatfree.com.au/
 
 ## Honey
 
