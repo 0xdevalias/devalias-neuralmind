@@ -41,6 +41,7 @@
 
 * [Food Shopping](shopping/food-shopping.md)
 * [Gothic Shopping](shopping/gothic-shopping.md)
+* [Kink/Fet/Alt](shopping/kink-fet-alt.md)
 * [Tea](shopping/tea.md)
 
 [Go Deeper..]()
