@@ -1,5 +1,9 @@
 # Hobbies & Interests
 
+## Anime
+
+* See [anime](anime.md)
+
 ## Paintball
 
 * [Paintball Sports ACT](http://www.paintballs.com.au/)
