@@ -4,7 +4,7 @@
 
 * My Favourites
   * [UTW (Unlimited Translation Works)](http://utw.me/) ([Projects](http://utw.me/projects/anime/))
-* [FFF (FFFansubs](http://fffansubs.org/) ([Releases](http://fffansubs.org/?page_id=8))
+* [FFF (FFFansubs)](http://fffansubs.org/) ([Releases](http://fffansubs.org/?page_id=8))
 * [Underwater](http://underwater.nyaatorrents.org/) ([Releases](http://underwater.nyaatorrents.org/?nav=releases))
 * [Doki](http://doki.co/)
 * [Commie](http://commiesubs.com/)
