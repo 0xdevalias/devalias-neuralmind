@@ -15,6 +15,7 @@
 [Hobbies/Interests]()
 
 * [Hobbies/Interests](hobbies-interests/hobbies-interests.md)
+* [Anime](hobbies-interests/anime.md)
 * [Drawing](hobbies-interests/drawing.md)
 * [Reading](hobbies-interests/reading.md)
 * [Shamanism/Shamanics](hobbies-interests/shamanism-shamanics.md)
