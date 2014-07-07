@@ -17,7 +17,7 @@
 * [Anime News Network](https://www.animenewsnetwork.com/)
   * [Season Preview Guide](http://www.animenewsnetwork.com.au/preview-guide/)
 * [AniDB](http://anidb.net/) ([My List](http://anidb.net/perl-bin/animedb.pl?show=mylist&do.filter=1&uid=568979))
-* [My Anime List](http://myanimelist.net/) ([My List](http://myanimelist.net/animelist/alias1)
+* [My Anime List](http://myanimelist.net/) ([My List](http://myanimelist.net/animelist/alias1))
 * [Japanese Media Manager](https://code.google.com/p/jmm/)
 
 ## Soundtracks/Music/Etc
