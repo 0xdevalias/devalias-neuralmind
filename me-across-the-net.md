@@ -1,7 +1,9 @@
 # Me Across The Net
 
 * http://devalias.net
-* http://blog.devalias.net
+  * http://blog.devalias.net
+* http://ensquared.net
+* http://zerooneinfinite.net
 
 ## Art'ish
 
@@ -20,6 +22,7 @@
 
 ## Game'ish
 
+* http://steamcommunity.com/id/ensquared
 * http://www.xboxlivescore.com/profile/AliasEnsquared
 
 ## Hack'ish, Pentest'ish & Security'ish
@@ -29,10 +32,20 @@
 * https://hackerone.com/devalias
 * https://www.hackthissite.org/user/view/aliasensquared/
 
+## Micropayment'ish
+
+* https://flattr.com/profile/devalias
+* https://www.gittip.com/devalias/
+* https://www.bountysource.com/people/26043-devalias
 
 ## Music'ish
 
 * https://soundcloud.com/devalias
+
+## Quantified'ish
+
+* https://exist.io/devalias/
+* http://trakt.tv/user/alias1
 
 ## Social'ish
 
@@ -42,15 +55,9 @@
 * http://www.pinterest.com/aliasensquared/
 * http://www.meetup.com/
 
-## Quantified'ish
+## Tech'ish
 
-* http://trakt.tv/user/alias1
-
-## Micropayment'ish
-
-* https://flattr.com/profile/devalias
-* https://www.gittip.com/devalias/
-* https://www.bountysource.com/people/26043-devalias
+* https://openid.net/foundation/members/
 
 ## Misc, Other and Unused
 
