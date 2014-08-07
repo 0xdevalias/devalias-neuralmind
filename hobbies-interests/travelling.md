@@ -3,6 +3,7 @@
 ## General
 
 * https://www.tripit.com/
+* https://en.wikivoyage.org/wiki/Main_Page
 * Accomodation
   * http://www.couchsurfing.org/
   * https://www.airbnb.com.au/
