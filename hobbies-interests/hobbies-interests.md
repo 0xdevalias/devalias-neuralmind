@@ -66,6 +66,7 @@
   * Goggles/Eyewear
     * [Oakley](http://au.oakley.com/)
     * [Dragon](http://www.dragonalliance.com/)
+* [Snowboarding (Couchsurfing)](https://www.couchsurfing.org/group.html?gid=466)
 
 ## Trampolining
 
