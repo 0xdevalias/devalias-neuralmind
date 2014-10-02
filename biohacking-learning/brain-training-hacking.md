@@ -1,4 +1,4 @@
-# Brain Training
+# Brain Training/Hacking
 
 * http://www.lumosity.com/
   * http://games.lumosity.com/dual_nback2.html
@@ -32,3 +32,7 @@
       * No, not at this time. If you would like to use our products on your computer, we suggest you try the emWave Desktop or emWave2.
     * What is the difference between Inner Balance and the emWave Desktop?
       * The emWave Desktop is the complete computer software version of the emWave technologies. It allows you to create multiple user profiles and track the progress of each individually. Additionally, it has several applications to help you learn to sustain coherence. The software can also be used in combination with the additional coherence games: Dual Drive and Tropical Heat.
+
+## Documentaries/Shows
+
+* https://trakt.tv/show/redesign-my-brain
