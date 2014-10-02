@@ -2,6 +2,7 @@
 
 [Biohacking/Learning/Etc]()
 
+  * [Brain Training](biohacking-learning/brain-training.md)
   * [Learning Language](biohacking-learning/learning-language.md)
   * [Learning Music](biohacking-learning/learning-music.md)
   * [Learning Online Coursewear](biohacking-learning/learning-online-courseware.md)
