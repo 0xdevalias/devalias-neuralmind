@@ -6,7 +6,7 @@
 
 ## Biohacking
 
-* See Biohacking/Learning/Etc on main menu/
+* See Biohacking/Learning/Etc on main menu
 * See also:
   * [Brain Training/Hacking](../biohacking-learning/brain-training-hacking.md)
   * [tDCS | /dev/alias - Health Hacks](http://isitbulletproof.info/#!tech/tdcs.md)
