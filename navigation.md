@@ -21,6 +21,7 @@
 * [Reading](hobbies-interests/reading.md)
 * [Shamanism/Shamanics](hobbies-interests/shamanism-shamanics.md)
 * [Travelling](hobbies-interests/travelling.md)
+* [Virtual/Augmented Reality](hobbies-interests/virtual-augmented-reality-etc.md)
 * [Webhosting](hobbies-interests/webhosting.md)
 
 [Gaming]()
