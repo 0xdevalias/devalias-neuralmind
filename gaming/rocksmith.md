@@ -5,6 +5,8 @@
 ## Custom Songs
 
 * http://www.rscustom.net/
+* http://customsforge.com/
+  * http://search.customsforge.com/
 * http://forums.smithyanvil.com/
 * http://rocksmithcustoms.wikispaces.com/
 * How To
