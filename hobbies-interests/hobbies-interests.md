@@ -4,6 +4,14 @@
 
 * See [anime](anime.md)
 
+## Biohacking
+
+* See Biohacking/Learning/Etc on main menu/
+* See also:
+  * [Brain Training/Hacking](../biohacking-learning/brain-training-hacking.md)
+  * [tDCS | /dev/alias - Health Hacks](http://isitbulletproof.info/#!tech/tdcs.md)
+  * [EEG & Neuro Feedback | /dev/alias - Health Hacks](http://isitbulletproof.info/#!tech/eeg-neurofeedback.md)
+
 ## Paintball
 
 * [Paintball Sports ACT](http://www.paintballs.com.au/)
