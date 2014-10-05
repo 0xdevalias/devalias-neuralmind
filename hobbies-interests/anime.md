@@ -1,6 +1,9 @@
 # Anime
 
 * http://www.pearltrees.com/alias1/anime-entertainment-etc/id4897366
+* http://trakt.tv/user/alias1/lists/my-most-favourite-anime-evar
+* http://trakt.tv/user/alias1/lists/anime-i-need-to-watch-definitely-next-lineup
+* http://trakt.tv/user/alias1/lists/anime
 
 ## Fansub Groups
 
