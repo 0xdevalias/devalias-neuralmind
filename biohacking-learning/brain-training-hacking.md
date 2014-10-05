@@ -1,5 +1,8 @@
 # Brain Training/Hacking
 
+* See also:
+  * [tDCS | /dev/alias - Health Hacks](http://isitbulletproof.info/#!tech/tdcs.md)
+  * [EEG & Neuro Feedback | /dev/alias - Health Hacks](http://isitbulletproof.info/#!tech/eeg-neurofeedback.md)
 * http://www.lumosity.com/
   * http://games.lumosity.com/dual_nback2.html
 * http://www.cambridgebrainsciences.com/
