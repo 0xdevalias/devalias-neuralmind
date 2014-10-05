@@ -75,4 +75,5 @@
 
 ## Yoga
 
+* [Yoga Elements](http://www.yogaelements.com.au/)
 * [Power Yoga Canberra](http://www.poweryogacanberra.com.au/)
