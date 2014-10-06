@@ -16,7 +16,7 @@
 
 * [Origin](https://www.origin.com/)
 
-## OzGameShop
+## OzGameShop (Store)
 
 * [OzGameShop](http://www.ozgameshop.com/)
 
