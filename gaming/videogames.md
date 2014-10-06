@@ -16,6 +16,10 @@
 
 * [Origin](https://www.origin.com/)
 
+## OzGameShop
+
+* [OzGameShop](http://www.ozgameshop.com/)
+
 ## Steam (Store/Community)
 
 * [Steam - Store](http://store.steampowered.com/)
