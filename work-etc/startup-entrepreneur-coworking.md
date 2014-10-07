@@ -5,6 +5,7 @@
 
 ## Australia-wide
 
+* http://madeinoz.org/
 * http://anthillonline.com/about-us/
 * http://blog.thefetch.com/startup-incubators-and-accelerators-in-australia/
 * http://www.startupsmart.com.au/
@@ -26,6 +27,11 @@
 * http://www.roryford.com/canberra-tech-companies/
   * [List of Canberra Startups](https://docs.google.com/spreadsheet/ccc?key=0Aup6eajU4jVpdE5iRi1RMm45dzgzSmhubkNEdEJKNWc&usp=sharing)
   * [Add to List](http://goo.gl/8iHfqy)
+
+## Melbourne
+
+* http://startupmelbourne.com/
+  * http://startupmelbourne.com/melbourne-startups/
 
 ### Coworking
 
