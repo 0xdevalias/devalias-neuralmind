@@ -6,6 +6,7 @@
   * [BP Podcast #79 - Shamanic Biohacking with Alberto Villoldo](http://www.bulletproofexec.com/79-shamanic-biohacking-with-alberto-villoldo-podcast/)
 * [Bicameralism (Wikipedia)](http://en.wikipedia.org/wiki/Bicameralism_(psychology))
 * http://reset.me/
+  * [BP Podcasts #143 - Psychedelic Healing & Reset.me](https://www.bulletproofexec.com/amber-lyon-on-psychedelic-healing-reset-me-podcast-143/) 
 
 ## Meditation
 
