@@ -5,6 +5,7 @@
   * [Preparing the Brain for Shamanic Ecstacy](http://thefourwinds.com/preparing-brain-shamanic-ecstasy/)
   * [BP Podcast #79 - Shamanic Biohacking with Alberto Villoldo](http://www.bulletproofexec.com/79-shamanic-biohacking-with-alberto-villoldo-podcast/)
 * [Bicameralism (Wikipedia)](http://en.wikipedia.org/wiki/Bicameralism_(psychology))
+* http://reset.me/
 
 ## Meditation
 
@@ -16,13 +17,14 @@
 
 ## Plants and Substances
 
-### DMT
+### DMT/Ayahuasca
 
 * Documentaries
   * [The Spirit Molecule](http://www.thespiritmolecule.com/)
     * [Trailer](http://www.thespiritmolecule.com/html/media.php?media=Trailer)
   * [Amazonia - Healing With Sacred Plants](http://topdocumentaryfilms.com/amazonia-healing-with-sacred-plants/)
   * [Heaven Earth](http://topdocumentaryfilms.com/heaven-earth/)
+  * [Ayahuasca - Nature's Greatest Gift](https://embed.vhx.tv/packages/2824)
 
 ### DXM
 
