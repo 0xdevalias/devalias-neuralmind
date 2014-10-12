@@ -20,12 +20,30 @@
 
 ### DMT/Ayahuasca
 
+* Conferences
+  * [World Ayahuasca Conference](http://www.aya2014.com/en/ )
 * Documentaries
   * [The Spirit Molecule](http://www.thespiritmolecule.com/)
     * [Trailer](http://www.thespiritmolecule.com/html/media.php?media=Trailer)
   * [Amazonia - Healing With Sacred Plants](http://topdocumentaryfilms.com/amazonia-healing-with-sacred-plants/)
   * [Heaven Earth](http://topdocumentaryfilms.com/heaven-earth/)
   * [Ayahuasca - Nature's Greatest Gift](https://embed.vhx.tv/packages/2824)
+* From [Reset.me](http://reset.me)
+  * [Ayahuasca](http://reset.me/content-category/ayahuasca/)
+  * [A Guide For Beginning Ayahuasca Travelers](http://reset.me/story/guide-beginning-ayahuasca-travelers/)
+  * [How To Stay Safe When Trying Ayahuasca](http://reset.me/podcast/ayahuasca-safety-joshua-wickerham/)
+* Tours
+  * http://ayaadvisor.org/
+  * [Pulse Tours](http://www.pulsetours.com/)
+    * http://ayaadvisor.org/listings/pulse-adventure-tours/ 
+    * [7 Day Amazon Ayahuasca Adventure](http://www.pulsetours.com/amazon-ayahuasca-adventure/) (US$1195, 4 Ayahuasca ceremonies, 1 Kambo ceremony)
+    * [10 Day Amazon Ayahuasca Adventure](http://www.pulsetours.com/10-day-amazon-ayahuasca-adventure/) (US$1495, 4 Ayahuasca ceremonies, 1 Kambo ceremony
+    * [14 Day Machu Picchu & Amazon Ayahuasca Expedition](http://www.pulsetours.com/machu-picchu-and-amazon-ayahuasca-expedition/) (US$2795,  4 Ayahuasca ceremonies, 1 Kambo ceremony, 1 San Pedro ceremony, extra $150-200 for food)
+    * [Ayahuasca Adventure Center](http://www.ayahuascaadventurecenter.com/ )
+      * [Grand Opening at Ayahuasca Adventure Center](http://www.pulsetours.com/on-psychedelics2/grand-opening-ayahuasca-adventure-center/)
+  * [Spirit Vine Ayahuasca Retreats](http://www.spiritvine.net/) (8-9 days, US$1650-1850 for dormitory, 3-4 ceremonies) 
+    * http://ayaadvisor.org/listings/spirit-vine/ 
+    *  [Peak Experiences: Seeking Higher Consciousness with Ayahuasca](http://wakeup-world.com/2014/04/23/peak-experiences-seeking-higher-consciousness-with-ayahuasca/)
 
 ### DXM
 
