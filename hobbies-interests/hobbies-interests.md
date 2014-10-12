@@ -32,18 +32,9 @@
 * [iSpin](http://www.ispin.com.au/)
 * [The Pussycat Pole](http://www.thepussycatpole.com.au/)
 
-## Raves/Events
+## Raves/Doofs/Festivals/Events
 
-* [Neko Nation](http://www.nekonation.com/)
-  * [Neko Facebook](https://www.facebook.com/nekonation)
-  * [Neko Nation Sydney (Facebook)](https://www.facebook.com/groups/nekonationsydney/)
-  * [Neko Nation Gaming (Facebook)](https://www.facebook.com/groups/nekonationgaming)
-* [Powerhouse Productions](http://www.powerhouseproductions.com.au/)
-  * [Facebook](https://www.facebook.com/powerhouseproductions)
-* [Q-Dance](http://www.q-dance.com.au)
-* Doofs
-  * [Dragon Dreaming](http://www.dragondreaming.net)
-  * [Regrowth](http://www.re-gen.org.au/regrowth_festival)
+* [See Raves/Doofs/Festivals/Events](raves-doofs-festivals-events.md)
 
 ## Rockclimbing
 
