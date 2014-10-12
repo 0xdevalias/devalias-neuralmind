@@ -32,6 +32,7 @@
   * [Ayahuasca](http://reset.me/content-category/ayahuasca/)
   * [A Guide For Beginning Ayahuasca Travelers](http://reset.me/story/guide-beginning-ayahuasca-travelers/)
   * [How To Stay Safe When Trying Ayahuasca](http://reset.me/podcast/ayahuasca-safety-joshua-wickerham/)
+  * [How to Choose A Reliable Ayahuasca Center](http://reset.me/podcast/howtochoseayahuascacenter/)
 * Tours
   * http://ayaadvisor.org/
   * [Pulse Tours](http://www.pulsetours.com/)
