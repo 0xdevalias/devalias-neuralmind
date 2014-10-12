@@ -18,6 +18,7 @@
 * [Hobbies/Interests](hobbies-interests/hobbies-interests.md)
 * [Anime](hobbies-interests/anime.md)
 * [Drawing](hobbies-interests/drawing.md)
+* [Raves/Doofs/Festivals/Events](hobbies-interests/raves-doofs-festivals-events.md)
 * [Reading](hobbies-interests/reading.md)
 * [Shamanism/Shamanics](hobbies-interests/shamanism-shamanics.md)
 * [Travelling](hobbies-interests/travelling.md)
