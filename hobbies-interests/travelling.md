@@ -21,12 +21,17 @@
 * Meetups/Etc
   * [Aussie Snowboarders (Couchsurfing)](https://www.couchsurfing.org/group.html?gid=18713)
 
+### Canberra
+
+* [Share Canberra MapJam](http://changemakersfestival.org/event/share-canberra-mapjam/) (Should eventually point to a Canberra Sharing City Map)
+
 ### Sydney
 
 * TODO
 
 ### Melbourne
 
+* [Melbourne Sharing City Map](https://mapsengine.google.com/map/u/0/viewer?mid=ziTWWBNlJYvo.k2CdRQXW44IE)
 * Accomodation
   * https://www.airbnb.com.au/s/Melbourne--Victoria--Australia
   * http://www.hostelworld.com/hostels/Melbourne
