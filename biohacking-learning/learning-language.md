@@ -12,6 +12,8 @@
 
 ## Japanese
 
+* https://www.wanikani.com/ - Kanji, Vocab, Spaced Repetition, Logical radical ordering, etc
+* http://www.textfugu.com/ - 'Learn Japanese The Hard Way', Online textbook
 * http://www.memrise.com/course/129638/beginner-japanese-3-week-2/
 * Madoka Sensei (ANU)
   * Uses Genki I & II textbooks
