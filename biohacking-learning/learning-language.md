@@ -4,7 +4,7 @@
 
 * [Memrise](http://www.memrise.com/)
 * [Rosetta Stone](http://www.rosettastone.eu/)
-* [Duolingo](https://www.duolingo.com/).
+* [Duolingo](https://www.duolingo.com/)
   * http://incubator.duolingo.com/
 * http://lang-8.com/
 * Chrome Extensions
