@@ -23,6 +23,10 @@
 
 * [Jordo's Chop Shop](http://www.jordoschopshop.com/)
 * [Grass Roots Urban Butchery](http://www.grub.com.au/) ([Facebook](https://www.facebook.com/GrassRootsUrbanButchery))
+* [Butchers - Paleo in Australia](http://paleoaustralia.com/about-paleo/paleo-in-australia/)
+  * [High Steaks Farming](http://highsteaksfarming.com.au/where-to-buy-our-beef-and-lam/wholesalebulk-orders/) ([Facebook](https://www.facebook.com/highsteaks))
+  * [Free Range Butcher](http://www.freerangebutcher.com.au/)
+* [Green Hill Organic Meat](http://www.greenhillorganicmeat.com.au/farm/buy-organic-meat-online.html)
 * http://www.lostriverproduce.com.au/
 * [EpicBar](http://epicbar.com/)
 
