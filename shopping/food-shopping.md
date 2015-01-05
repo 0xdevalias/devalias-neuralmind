@@ -22,7 +22,9 @@
 ## Meat
 
 * [Jordo's Chop Shop](http://www.jordoschopshop.com/)
+* [Grass Roots Urban Butchery](http://www.grub.com.au/) ([Facebook](https://www.facebook.com/GrassRootsUrbanButchery))
 * http://www.lostriverproduce.com.au/
+* [EpicBar](http://epicbar.com/)
 
 ## Vegies/Groceries
 
